@@ -1,1 +1,2 @@
-# sci_tools
+merge_rinex3_obs
+ 将逐小时观测文件进行合并
